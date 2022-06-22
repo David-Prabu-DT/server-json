@@ -1,0 +1,18 @@
+{
+  "employees": [
+    {
+      "id": 2,
+      "ename": "David",
+      "phone": "9344157035",
+      "designation": "Engineer",
+      "location": "Trichy"
+    },
+    {
+      "id": 3,
+      "ename": "Harish",
+      "phone": "1121726172",
+      "designation": "Developer",
+      "location": "Ariyalur"
+    }
+  ]
+}
